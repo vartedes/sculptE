@@ -1,0 +1,6 @@
+{
+  "name": "SculptEngine Web",
+  "description": "Una plataforma de escultura digital de alto rendimiento basada en ciencia de materiales y física de arcilla virtual, diseñada para el modelado orgánico fluido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
