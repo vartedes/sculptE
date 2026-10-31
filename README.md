@@ -1,20 +1,22 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# sculptE 🎨
 
-# Run and deploy your AI Studio app
+**sculptE** es una aplicación y espacio de exploración para visualización e interacción 3D en la web. Este proyecto combina conceptos de maquetación interactiva con activos tridimensionales optimizados para rendimiento en navegador.
 
-This contains everything you need to run your app locally.
+## 🚀 Tecnologías Utilizadas
 
-View your app in AI Studio: https://ai.studio/apps/9e0f878c-14f3-437f-8d10-bd00b71cc6e8
+- **Core & Backend:** C++, Python
+- **Frontend & Web:** JavaScript, HTML5, CSS3, TypeScript
+- **Diseño & 3D:** Nomad Sculpt / Blender, Adobe Photoshop
+- **Despliegue:** Vercel / GitHub Pages
 
-## Run Locally
+## ✨ Características Principales
 
-**Prerequisites:**  Node.js
+- Carga y visualización rápida de modelos 3D en la web.
+- Interfaz intuitiva y adaptable a dispositivos móviles y escritorio.
+- Optimización de mallas y texturas para un renderizado liviano.
 
+## 🛠️ Instalación y Uso Local
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. Clona el repositorio:
+   ```bash
+   git clone [https://github.com/vartedes/sculptE.git](https://github.com/vartedes/sculptE.git)
